@@ -1,8 +1,12 @@
-I Do Something
+###Zeniku
 
-Only knows js
-What did you expect I'm a highschooler
+I try to do stuff
 
-If you are a highschooler that knows alot of language
+Go check my stuff:
+- [Heavy Machinery](https://github.com/Zeniku/HeavyMachinery)
+- [Heavy Machinery Wiki](https://github.com/Zeniku/HeavyMachinery-Wiki)
 
-Good for you because I'm h I don't have time and I'm lazy
+#### Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zeniku&count_private=false&show_icons=true&hide_border=true&theme=gotham)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeniku&show_icons=true&hide_border=true&count_private=false&theme=gotham&langs_count=7)
