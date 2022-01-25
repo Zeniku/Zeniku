@@ -11,6 +11,6 @@ Go check my stuff:
 <details>
 <summary></summary>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Zeniku&count_private=false&show_icons=true&hide_border=true&theme=gotham)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeniku&show_icons=true&hide_border=true&count_private=false&theme=gotham&langs_count=7)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zeniku&count_private=false&show_icons=true&hide_border=false&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeniku&show_icons=true&hide_border=false&count_private=false&theme=onedark&langs_count=8)
 </details>
