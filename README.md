@@ -3,10 +3,10 @@
 I try to do stuff
 
 Go check my stuff:
-- [Heavy Machinery](https://github.com/Zeniku/HeavyMachinery)
 - [Heavy Machinery Java](https://github.com/Zeniku/HeavyMachineryJava)
 - [Heavy Machinery Wiki](https://github.com/Zeniku/HeavyMachinery-Wiki)
 - [Nvim Config](https://github.com/Zeniku/NvimConfig)
+
 ## GitHub Stats
 <details>
 <summary></summary>
