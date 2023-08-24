@@ -3,8 +3,7 @@
 I try to do stuff
 
 Go check my stuff:
-- [Heavy Machinery Java](https://github.com/Zeniku/HeavyMachineryJava)
-- [Heavy Machinery Wiki](https://github.com/Zeniku/HeavyMachinery-Wiki)
+- [Caeruleum](https://github.com/Zeniku/Caeruleum)
 - [Nvim Config](https://github.com/Zeniku/NvimConfig)
 
 ## GitHub Stats
